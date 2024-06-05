@@ -90,11 +90,11 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
 }
 
 #header h2 span {
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
